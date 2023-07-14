@@ -1,0 +1,35 @@
+body
+{
+	margin-bottom: 80px;
+}
+
+img
+{
+	padding-bottom: 20px;
+	padding-top: 10px;
+}
+
+.page-header
+{
+	margin-top: 0;
+}
+
+.panel-body
+{
+	padding-top: 0;
+}
+
+.featuredimg
+{
+	margin-bottom: 15px;
+}
+
+.col-md-3
+{
+	padding-bottom: 30px;
+}
+
+h3
+{
+	font-size: 20px
+}
